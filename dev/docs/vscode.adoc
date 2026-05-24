@@ -1,0 +1,10 @@
+= vscode
+
+
+== Qt Extension for VS Code
+
+https://doc.qt.io/vscodeext/
+
+Register Qt installations::
+
+https://doc.qt.io/vscodeext/vscodeext-how-register-qt-installations.html
